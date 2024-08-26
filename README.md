@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Harish
 
 Software Engineer @ Machynworks Software Solution
-<img align="right" width="370" height="290" src="https://dribbble.com/shots/4884082-Procrastination?">
+<img align="right" width="370" height="290" src="[View on Pinterest](https://assets.pinterest.com/ext/embed.html?id=561120434837032181)">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 ~~I’m currently learning DSA~~
 - 🤔 I'm Helping others to land their dream job
