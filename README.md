@@ -20,4 +20,4 @@ Software Engineer @ Machynworks Software Solution
 ### 💻 Workspace Spec
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
 
-[![Harish github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harish&bg_color=000000&color=ffffff&line=43ea0f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harish github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harishnattu&bg_color=000000&color=ffffff&line=04af00&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
